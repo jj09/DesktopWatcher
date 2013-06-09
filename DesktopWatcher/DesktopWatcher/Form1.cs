@@ -49,7 +49,6 @@ namespace DesktopWatcher
                         LockWorkStation();
                     }
                 }
-
                 return false;
             }
 
@@ -70,7 +69,7 @@ namespace DesktopWatcher
             {
                 axWindowsMediaPlayer1.URL = openFileDialog1.FileName;
             }
-            System.Threading.Thread.Sleep(5000);    // 5 seconds delay before mouse moving stop 
+            System.Threading.Thread.Sleep(5000);    // 5 seconds for leave the machine
             mousePosition.X = Cursor.Position.X;
             mousePosition.Y = Control.MousePosition.Y;
 
