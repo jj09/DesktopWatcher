@@ -14,5 +14,5 @@ How to use:
   *  To quit app and avoid sound you need to click ALT-F4. However computer will be locked anyway (but sound won't be played).
 
 Issues:
-* Sometimes you will need to hit ALT-F4 a few times, because system will detect previous moves after unlock.
+* Sometimes you will need to unlock the system a few times, because it can detect previous moves after unlock.
 * App is working appropriate only when cursor is on the app area. However it should be enough to caught people (if they do not know your app).
