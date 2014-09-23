@@ -2,6 +2,7 @@ DesktopWatcher
 ==============
 
 This application starts playing scary sound when you move mouse or push some key on keyboard. 
+
 It is good to frighten those who want to mess up with your computer :)
 
 How to use:
